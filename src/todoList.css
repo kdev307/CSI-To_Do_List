@@ -108,5 +108,6 @@
 }
 
 .remove-button:hover {
-    color: #ff0800;
+    background: #ff0800;
+    color: #fff;
 }
